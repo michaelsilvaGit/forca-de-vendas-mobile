@@ -1,6 +1,6 @@
 # Projeto App forca de vendas
 
-Este projeto é uma aplicação mobile integrado a um sistema ERP para potencializar as vendas de estabelecimentos comercias. Desenvolvido em **React-Native**. A versão desse projeto é disponibilizado somente uma parte, a parte do desenvolvimento app, a parte da integração não foi disponibilizado por motivos autorais. A parte do app desenvovida por mim é a que disponibilizo em uma versão lite para portfólio.
+Este projeto é uma aplicação mobile integrado a um sistema ERP para potencializar as vendas de estabelecimentos comercias. Desenvolvido por mim em **React-Native** essa versão é uma versão lite que disponibilizei para fins de portifólio.
 
 ## Funcionalidades
 
@@ -22,4 +22,5 @@ Este projeto é uma aplicação mobile integrado a um sistema ERP para potencial
 - **Axios API**: Ultilizado para fazer as requisição HTTP com o backend.
 - **React redux**: Biblioteca de gerenciamento de estados e compartilhamento de dados entre os arquivos.
 - **SQLITE**: Banco de dados local que foi usado para rascunhos de pedidos, futuramente será usado também utilizaçao do app offline.
+
 
